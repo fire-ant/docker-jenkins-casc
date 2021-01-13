@@ -3,7 +3,6 @@ build-pipeline-plugin
 build-timeout
 credentials
 configuration-as-code
-configuration-as-code-support
 email-ext
 embeddable-build-status
 git
@@ -26,3 +25,7 @@ warnings-ng
 windows-slaves
 workflow-aggregator
 ws-cleanup
+atlassian-bitbucket-server-integration
+stashNotifier
+blueocean-bitbucket-pipeline
+cloudbees-bitbucket-branch-source
